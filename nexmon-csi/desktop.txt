@@ -1,0 +1,2 @@
+makecsiparams -c 161/80 -C 1 -N 1 -m a8:9d:21:3c:0a:3e -b 0x88
+m+MBEQGIAQConSE8Cj4AAAAAAAAAAAAAAAAAAAAAAAAAAA==

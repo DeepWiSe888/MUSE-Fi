@@ -1,0 +1,4 @@
+ifconfig wlan0 up
+nexutil -Iwlan0 -s500 -b -l34 -vm+MBEQGIAQConSE8Cj4AAAAAAAAAAAAAAAAAAAAAAAAAAA==
+nexutil -Iwlan0 -m1
+tcpdump -i wlan0 dst port 5500 -w data.pcap
