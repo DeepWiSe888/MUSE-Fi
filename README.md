@@ -34,6 +34,7 @@ To get started with MUSE-Fi and use the code to realize the system, follow these
 3. **Set up a virtual environment** (recommended) using tools like `virtualenv` or `conda`. This ensures a clean and isolated environment for your MUSE-Fi implementation. Activate the virtual environment.
 4. **Download the required datasets**. The specific datasets used with MUSE-Fi can be obtained from [Dataset Download](https://1drv.ms/u/s!AoeuYyk6v3AHe_ye4dP3ZitmG7o?e=fpPOom). Extract the contents of the `Data.zip` file and  make sure the extracted `Data` folder and the five code folders (gesture, activity, bfi-csi-comparison, SRA, and nexmon-csi) are placed in the same directory.
 5. **Install the necessary packages** such as pytorch 2.0.0, tqdm 4.65.0, numpy 1.23.5, pandas 2.0.3
+6. Some of the provided .csi data may require Matlab to have [PicoScenes MATLAB Toolbox Core](https://ps.zpj.io/matlab.html) to load into the workspace.
 
 Now you're ready to implement and use MUSE-Fi!
 
