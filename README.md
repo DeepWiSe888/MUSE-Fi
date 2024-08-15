@@ -32,7 +32,7 @@ To get started with MUSE-Fi and use the code to realize the system, follow these
 1. **Clone** this repository to your local machine using `git clone https://github.com/uio789bnm/MUSE-Fi/.git`.
 2. **Install Python 3.8** on your computer. You can download the latest version of Python from the official website: [python.org](https://www.python.org/).
 3. **Set up a virtual environment** (recommended) using tools like `virtualenv` or `conda`. This ensures a clean and isolated environment for your MUSE-Fi implementation. Activate the virtual environment.
-4. **Download the required datasets**. The specific datasets used with MUSE-Fi can be obtained from [Dataset Download](). Extract the contents of the `Data.zip` file and  make sure the extracted `Data` folder and the five code folders (gesture, activity, bfi-csi-comparison, SRA, and nexmon-csi) are placed in the same directory.
+4. **Download the required datasets**. The specific datasets used with MUSE-Fi can be obtained from [Dataset Download](https://entuedu-my.sharepoint.com/:u:/g/personal/hongbo001_e_ntu_edu_sg/Eb7l1jg_XRpEkj880A9Aw8gBVAPZaTAbHtZAA7pTakhmsQ?e=9gEjgP). Extract the contents of the `Data.zip` file and  make sure the extracted `Data` folder and the five code folders (gesture, activity, bfi-csi-comparison, SRA, and nexmon-csi) are placed in the same directory.
 5. **Install the necessary packages** such as pytorch 2.0.0, tqdm 4.65.0, numpy 1.23.5, pandas 2.0.3
 
 Now you're ready to implement and use MUSE-Fi!
